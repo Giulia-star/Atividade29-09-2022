@@ -1,3 +1,5 @@
+package old2;
+
 public class AlunoDeGraduacao{
     private String nome;
     private int idade;

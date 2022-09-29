@@ -1,3 +1,4 @@
+package old2;
 public class ProfessorPesquisador{
     private  String nome;
     private int idade;
